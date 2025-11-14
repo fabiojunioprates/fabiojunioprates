@@ -14,4 +14,5 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img align="center" alt="TypeScript" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fpython-logo%2F&psig=AOvVaw0K5hRqnvPNJOSkZm8SHRwm&ust=1763240932877000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCAgsDG8pADFQAAAAAdAAAAABAE"/>
 </div>
